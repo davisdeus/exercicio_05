@@ -93,3 +93,12 @@ textarea{
     background-color: rgb(45, 202, 202);
 
 }
+
+.formulario section h3{
+    color: black;
+}
+
+footer{
+    background-color: #04cec7;
+    padding: 10px 10px;
+}
